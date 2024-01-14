@@ -1,4 +1,4 @@
-#Linear Regression_Co2 Emissions 
+Linear Regression_Co2 Emissions 
 
 ANALYZING CO2 EMISSIONS AND THEIR ENVIRONENTAL IMPACT
 
